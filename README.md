@@ -11,12 +11,12 @@
   * [Links](#links)
 
 ## Task :man_technologist:
-For this assignment, we were tasked with creating an employee directory that generates a list of random people using the Random User API. The end user is capable of parsing through the list using the search and can find a person based on their name, DOB, phone number, etc.[Deployed Application](https://uzobeki.github.io/Employee-Directory/)
+For this assignment, we were tasked with creating a MERN stack application that utilizes the Google Bookss API to allow a user to find a book.[Repo](hhttps://github.com/uzobeki/Google-Books-Search)
 
 
 ## Preview
 
-![Employee Directory Preview](assets/Employee-Directory.png)
+![Google Book Search Preview](assets/GBS.gif)
 
 
 
@@ -26,7 +26,7 @@ For this assignment, we were tasked with creating an employee directory that gen
 ## Technologies Used
 Languages: Javascript, HTML, CSS
 
-Packages: axios, 
+Packages: axios, mongoose, express, react, node
 
 APIs: Google Books API
 
